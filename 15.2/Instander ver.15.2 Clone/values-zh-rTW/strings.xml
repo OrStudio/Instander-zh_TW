@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="(name removed)">州／省</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f120007">城市</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f120008">地址</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f120009">公寓／套房（選填）</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f12000b">關閉瀏覽器</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f12000c">%1$s想要使用你裝置的相機。</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f12000d">%1$s想要使用你的裝置地點。</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f12000e">允許</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f12000f">封鎖</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f120010">這個網站的安全性憑證有問題</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f120011">返回</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f120012">安全性錯誤</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f120015">安全碼</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f120016">卡號</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f120020">輸入你%1$s • %2$s上的 3 到 4 位數安全碼，以自動填入表單資料。</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f120021">請輸入尾數為%1$s的卡片詳細資料，以進行額外的安全驗證。</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f120022">請輸入尾數為%1$s的卡片完整卡號，以進行額外的安全驗證。</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f120023">請新增%1$s • %2$s的完整卡號。</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f120024">確認卡片詳細資料</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f120025">確認</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f120026">確認%1$s • %2$s的安全碼</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f120027">確定</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f120031">發生錯誤。</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f1200b5">電子郵件地址</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f1200b6">姓氏</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f1200be">粉絲專頁無法載入</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f1200bf">使用…開啟</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f1200c0">在%1$s開啟</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f1200c1">更多選項</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f1200c2">名字</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f1200cc">我們目前無法設定%1$s版本的%2$s。你可以再試一次，或暫時使用英語（美國）瀏覽%2$s。</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f1200cd">我們正在設定%1$s，請稍候……</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f1200ce">重試</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f1200cf">使用英語（美國）繼續</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f1200d1">姓名</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f1200e5">郵遞區號</string>
+    <string name="(name removed)_APKTOOL_DUPLICATENAME_0x7f12010a">電話號碼</string>
+</resources>
