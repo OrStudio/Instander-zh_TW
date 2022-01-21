@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="istring" name="instander">Instander</item>
+    <item type="istring" name="version">版本: %s</item>
+    <item type="istring" name="version_code">15.3</item>
+    <item type="istring" name="version_codename">15.3 (ixora)</item>
+    <item type="istring" name="pref_based_summary">215.0.0.27.359-sdk21-nodpi</item>
+    <item type="istring" name="instander_crash">Instander 崩潰了! 請通過電子郵件發送崩擴資訊。</item>
+    <item type="istring" name="log_saved">日誌另存到:</item>
+    <item type="istring" name="version_xe0">由 Dise 用 ❤ 製作</item>
+    <item type="istring" name="version_xe1">由 Dise 用 ❄️ 製作</item>
+    <item type="istring" name="msg_welcome_title">歡迎使用 Instander</item>
+    <item type="istring" name="msg_welcome_text">&amp;lt;b>Instander&amp;lt;/b> 是對 Android 版 Instagram 應用程式的修改，為應用程式帶來了額外的功能。該應用程序不隸屬於 Facebook Inc.，完全免費發布！!&amp;lt;br>&amp;lt;br>&amp;lt;b>應用程式中有兩種設定方式:&amp;lt;/b>&amp;lt;br>• Instander 設定 — 在選單中進行設定;&amp;lt;br>• 開發者模式 — 長按主頁圖標.&amp;lt;br>&amp;lt;br>由 Dise 用 ❤ 製作</item>
+    <item type="istring" name="pref_about_nav_title">Instander 設定</item>
+    <item type="istring" name="pref_downloads">下載</item>
+    <item type="istring" name="pref_notifs_on">通知</item>
+    <item type="istring" name="pref_split_by_username">依據使用者名稱分類</item>
+    <item type="istring" name="pref_split_by_username_summary">下載將按使用者名稱分類子目錄</item>
+    <item type="istring" name="pref_download_folder">下載路徑</item>
+    <item type="istring" name="pref_download_this">目前的照片/影片</item>
+    <item type="istring" name="pref_download_all">全部 %1$s 照片/影片</item>
+    <item type="istring" name="downloaded_media_toast">"另存到: "</item>
+    <item type="istring" name="permission_error">錯誤!請同意使用檔案和媒體的使用權限，以便您可以下載照片/影片</item>
+    <item type="istring" name="feature_not_available">目前此功能不可用...</item>
+    <item type="istring" name="down_start">下載開始...</item>
+    <item type="istring" name="down_fail">下載失敗</item>
+    <item type="istring" name="download_complete">下載完成</item>
+    <item type="istring" name="downloading">正在下載...</item>
+    <item type="istring" name="pink_cancel">取消</item>
+    <item type="istring" name="impossible_down">"無法下載"</item>
+    <item type="istring" name="pink_download">下載</item>
+    <item type="istring" name="create_folder_hint">在此處輸入資料夾名稱</item>
+    <item type="istring" name="create_new_folder">在這里新增一個資料夾</item>
+    <item type="istring" name="folder_dialog_internal">(內部)</item>
+    <item type="istring" name="folder_dialog_external">(外部)</item>
+    <item type="istring" name="folder_dialog_select">選擇</item>
+    <item type="istring" name="folder_dialog_select_dir">選擇路徑</item>
+    <item type="istring" name="folder_dialog_defdir">預設目錄</item>
+    <item type="istring" name="folder_dialog_cancel">取消</item>
+    <item type="istring" name="create_folder_dialog_title">輸入資料夾名稱</item>
+    <item type="istring" name="create_folder_dialog_pos_button">新增</item>
+    <item type="istring" name="create_folder_dialog_invalid">請輸入有效的資料夾名稱</item>
+    <item type="istring" name="create_folder_dialog_already_exists">"這個資料夾已經存在。
+  請為資料夾提供另一個名稱。"</item>
+    <item type="istring" name="file_lister_folder">資料夾</item>
+    <item type="istring" name="pref_category_privacy">隱私</item>
+    <item type="istring" name="pref_disable_ads">禁用廣告</item>
+    <item type="istring" name="pref_disable_analytics">禁用分析</item>
+    <item type="istring" name="pref_arca_title">崩潰報告</item>
+    <item type="istring" name="pref_swipe_title">手勢</item>
+    <item type="istring" name="pref_disable_swipe">滑動導航</item>
+    <item type="istring" name="pref_long_tap_title">長按縮放照片</item>
+    <item type="istring" name="pref_double_tap_title">雙擊點贊照片</item>
+    <item type="istring" name="pref_triple_tap_title">三連擊</item>
+    <item type="istring" name="pref_video_scrubber_title">影片長按進度條</item>
+    <item type="istring" name="pref_category_quality_title">畫質優化</item>
+    <item type="istring" name="pref_max_video_bitrate">優化限時動態的畫質</item>
+    <item type="istring" name="pref_igtv_quality">優化 IGTV 的畫質</item>
+    <item type="istring" name="pref_reels_quality">優化 Reels 的畫質</item>
+    <item type="istring" name="pref_photo_compress_title">優化照片的畫質</item>
+    <item type="istring" name="pref_experiment">(實驗性)</item>
+    <item type="istring" name="pref_max_quality_media">(實驗性)</item>
+    <item type="istring" name="pref_max_quality_media_summary">預設的情況下，Instagram 會依據螢幕寬度壓縮照片，此選項禁用這個限制。</item>
+    <item type="istring" name="pref_ghost_title">幽靈模式</item>
+    <item type="istring" name="pref_hide_view_status">不要將限時動態標記為已看過</item>
+    <item type="istring" name="pref_direct_unread">不要將訊息標記為已讀</item>
+    <item type="istring" name="pref_direct_type">禁用輸入狀</item>
+    <item type="istring" name="pref_live_hide">匿名觀看直播</item>
+    <item type="istring" name="pref_live_ghost">"👻你是幽靈觀眾！如果你不說話，直播的主人不會知道你在看。"</item>
+    <item type="istring" name="pref_feed_and_stories">貼文 &amp; 限時動態</item>
+    <item type="istring" name="pref_stories_audio">有聲故事自動播放</item>
+    <item type="istring" name="pref_video_autoplay">自動播放影片</item>
+    <item type="istring" name="pref_suggested_users">推薦好友</item>
+    <item type="istring" name="pref_remove_liked_posts">隱藏喜歡鈕</item>
+    <item type="istring" name="pref_others_title">其他</item>
+    <item type="istring" name="pref_browser_title">內建瀏覽器</item>
+    <item type="istring" name="pref_follow">標記「關注你」的使用者</item>
+    <item type="istring" name="pref_menu_comment">評論區選單</item>
+    <item type="istring" name="pref_verify_title">驗證</item>
+    <item type="istring" name="pref_verify_info_about_title">認證是什麼功能?</item>
+    <item type="istring" name="pref_verify_info_about">帳號認證是開發者對贊助者的感謝。只有 Instander 的使用者才看到。</item>
+    <item type="istring" name="pref_verify_info_donate_title">如何獲得認證?</item>
+    <item type="istring" name="pref_verify_info_donate">"以您方便的方式向開發者捐款：
+— from 150 RUB;
+— from 55 UAH;
+— from 2.5 USD.
+
+贊助流程的最後，寫下您的@username。
+
+並通過電子郵件發送贊助截圖和您的使用者名稱。
+
+發出後驗證完成的時間約 24 小時至 7 天。"</item>
+    <item type="istring" name="pref_donate">捐贈方式</item>
+    <item type="istring" name="pref_donate_summary">Monobank, Qiwi, YooMoney, Ethereum, Tinkoff</item>
+    <item type="istring" name="copypassdone">Copied successfully</item>
+    <item type="istring" name="paypalcopypassdone">Email copied successfully</item>
+    <item type="istring" name="ethcopypassdone">Ethereum address copied successfully</item>
+    <item type="istring" name="pref_email_title">Send E-mail</item>
+    <item type="istring" name="pref_email_summary">Attach money order screenshot and your Instagram username</item>
+    <item type="istring" name="pref_email_verify">mailto:verify@thedise.me</item>
+    <item type="istring" name="pref_email_subject">Instander Verification</item>
+    <item type="istring" name="pref_email_text">Attach screenshot money order and your @username on Instagram.</item>
+    <item type="istring" name="pref_ota_title">OTA 更新</item>
+    <item type="istring" name="pref_ota_auto_title">自動檢查更新</item>
+    <item type="istring" name="pref_ota_check">檢查更新</item>
+    <item type="istring" name="pref_search_ota">正在檢查更新...</item>
+    <item type="istring" name="pref_ota_download">請稍候...</item>
+    <item type="istring" name="pref_ota_new">新版本: %s</item>
+    <item type="istring" name="pref_ota_last">已安裝最新版本</item>
+    <item type="istring" name="pref_download_nofify_channel">Instander OTA</item>
+    <item type="istring" name="pref_ota_error">錯誤</item>
+    <item type="istring" name="pref_ota_update">更新</item>
+    <item type="istring" name="pref_about_title">關於</item>
+    <item type="istring" name="pref_based_title">基於 Instagram</item>
+    <item type="istring" name="pref_dev">首席開發人員</item>
+    <item type="istring" name="pref_dev_summary">Dmitry Gavrilov aka the_dise</item>
+    <item type="istring" name="pref_category_social">社交媒體</item>
+    <item type="istring" name="pref_instagram">我的 Instagram</item>
+    <item type="istring" name="pref_telegram">我的 Telegram 部落格</item>
+    <item type="istring" name="pref_github">我的 GitHub</item>
+    <item type="istring" name="pref_translate_title">翻譯</item>
+    <item type="istring" name="pref_translate_summary">您可以幫助翻譯應用(完全沒用ಠ_ಠ)</item>
+    <item type="istring" name="pref_thanks_title">致謝</item>
+    <item type="istring" name="pref_thanks_summary">幫助 Instander 開發的人和開源項目</item>
+    <item type="istring" name="pref_thanks_1">krogon500</item>
+    <item type="istring" name="pref_thanks_1_summary">InstaXtreme 的創建者。 用於 Instagram 修改領域的發展。</item>
+    <item type="istring" name="pref_thanks_2">Grishka</item>
+    <item type="istring" name="pref_thanks_2_summary">去除廣告的原始代碼作者</item>
+    <item type="istring" name="pref_thanks_3">f0x1d</item>
+    <item type="istring" name="pref_thanks_3_summary">幫助建立 OTA</item>
+    <item type="istring" name="pref_thanks_4">gdlbo</item>
+    <item type="istring" name="pref_thanks_4_summary">全方位幫助與支持</item>
+    <item type="istring" name="pref_thanks_5">namok</item>
+    <item type="istring" name="pref_thanks_5_summary">一些自定義設定的作者</item>
+    <item type="istring" name="pref_thanks_6">FirzenYogesh</item>
+    <item type="istring" name="pref_thanks_6_summary">Android 實用程式庫和 FileListerDialog 的作者</item>
+    <item type="istring" name="pref_thanks_7">Splunk Mint</item>
+    <item type="istring" name="pref_thanks_7_summary">用於編目修改錯誤的 Crashlytics 服務</item>
+    <item type="istring" name="pref_thanks_8">seven332</item>
+    <item type="istring" name="pref_thanks_8_summary">作者 UniFile。來自 Document File Provider 的強大分支</item>
+    <item type="istring" name="pref_thanks_9">Raul Portales</item>
+    <item type="istring" name="pref_thanks_9_summary">標準 Android 使用者界面的粒子系統</item>
+    <item type="istring" name="pref_faq_title">幫助</item>
+    <item type="istring" name="pref_faq_summary">常見問題解答</item>
+    <item type="istring" name="pref_social_title">社群媒體</item>
+    <item type="istring" name="pref_social_summary">在社群媒體上關注 Instander</item>
+    <item type="istring" name="pref_telegram_channel">Telegram 中的 Instander 官方頻道</item>
+    <item type="istring" name="pref_subreddit">Instander 官方 subreddit</item>
+    <item type="istring" name="pref_instander_summary">Instagram 官方 Instander 賬號</item>
+    <item type="istring" name="pref_made_dise">由 Dise 用 ❤ 製作</item>
+    <item type="istring" name="pref_profile_follow">用戶正在追蹤您</item>
+    <item type="istring" name="pref_profile_not_follow">"用戶沒有追蹤你"</item>
+    <item type="istring" name="instander_menu">Instander 選單</item>
+    <item type="istring" name="preview_media">預覽</item>
+    <item type="istring" name="copy_link">複製檔案的連結</item>
+    <item type="istring" name="share_link">分享檔案的連結</item>
+    <item type="istring" name="shared_via">&gt;"通過 Instander 分享: "</item>
+    <item type="istring" name="install_player">"您似乎沒有在影音撥放器，請安裝 VLC 並重試"</item>
+    <item type="istring" name="pref_mark_as_read">標記為已讀</item>
+    <item type="istring" name="pref_comment_menu">評論區選單</item>
+    <item type="istring" name="pref_translate_to_def">翻譯成系統語言</item>
+    <item type="istring" name="pref_translate_to_en">翻譯成英文</item>
+    <item type="istring" name="pref_translate_to_ru">翻譯成俄語</item>
+    <item type="istring" name="pref_translate_to_ua">翻譯成俄語</item>
+    <item type="istring" name="pref_comment_copy">複製評論</item>
+    <item type="istring" name="message_too_long">複製評論</item>
+    <item type="istring" name="translate_toast">稍等，正在翻譯...</item>
+    <item type="istring" name="done_translate">翻譯:</item>
+    <item type="istring" name="copy_translate">複製</item>
+    <item type="istring" name="close_translate">關閉</item>
+    <item type="istring" name="translate_error">錯誤:請重試</item>
+    <item type="istring" name="pref_restart">錯誤:請重試</item>
+    <item type="istring" name="user_header_posts">貼文</item>
+    <item type="istring" name="user_header_followers">關注者</item>
+    <item type="istring" name="user_header_following">關注</item>
+    <item type="istring" name="profile_picture">個人資料圖片</item>
+    <item type="istring" name="pref_comment_more">更多</item>
+    <item type="istring" name="pref_apply_new_icon">更多</item>
+    <item type="istring" name="pref_instander_old">Instander (舊 Icon)</item>
+    <item type="istring" name="pref_instander_alt">Instander (新 Icon)</item>
+    <item type="istring" name="pref_change_app_icon">更改 Icon (測試)</item>
+    <item type="istring" name="pref_select_icon">更改 Icon (測試)</item>
+    <item type="istring" name="pref_icon_apply_done">Icon 設定成功</item>
+    <item type="istring" name="private_reply">留言</item>
+    <item type="istring" name="private_see_response">查看回复</item>
+    <item type="istring" name="profile_header_name_spacing_multiplier">1.2</item>
+    <item type="istring" name="pref_story_autoplay">限時動態禁止翻頁</item>
+    <item type="istring" name="pref_monobank">Monobank</item>
+    <item type="istring" name="pref_qiwi">Qiwi</item>
+    <item type="istring" name="pref_yoomoney">YooMoney</item>
+    <item type="istring" name="pref_paypal">PayPal</item>
+    <item type="istring" name="pref_verify_info_paypal_title">Attention</item>
+    <item type="istring" name="pref_email_send_paypalme">通過 PayPal 捐款</item>
+    <item type="istring" name="pref_email_send_paypal">通過電子郵件付款</item>
+    <item type="istring" name="pref_email_paypal">發送至：the.dise@yandex.ua</item>
+    <item type="istring" name="pref_paypal_summary">When paying take into account the 10% commission that PayPal takes. If there are not enough funds, verification will not be possible.</item>
+    <item type="istring" name="pref_tinkoff">Tinkoff</item>
+    <item type="istring" name="pref_ethereum">以太坊</item>
+    <item type="istring" name="pref_team">Instander 團隊</item>
+    <item type="istring" name="pref_team_summary">幫助開發和測試的專家</item>
+    <item type="istring" name="reply_button">Reply</item>
+    <item type="istring" name="pref_backup_settings">備份設定</item>
+    <item type="istring" name="pref_backup_settings_about">關於「備份設定」</item>
+    <item type="istring" name="pref_backup_settings_summary">“此選項可幫助您備份 Instander 的設定。
+
+備份不包括隱藏的開發者設定。”</item>
+    <item type="istring" name="pref_backup_title">備份</item>
+    <item type="istring" name="pref_restore_title">還原</item>
+    <item type="istring" name="backup_saved">"備份儲存在: "</item>
+    <item type="istring" name="backup_restored">設定備份以還原</item>
+    <item type="istring" name="no_backups">沒有備份</item>
+    <item type="istring" name="direct_unread_on">未讀開啟訊息</item>
+    <item type="istring" name="direct_unread_off">未讀開啟訊息關閉</item>
+</resources>

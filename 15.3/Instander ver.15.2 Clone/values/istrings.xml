@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="istring" name="instander">Instander</item>
+    <item type="istring" name="version">version: %s</item>
+    <item type="istring" name="version_code">15.3</item>
+    <item type="istring" name="version_codename">15.3 (ixora)</item>
+    <item type="istring" name="pref_based_summary">215.0.0.27.359-sdk21-nodpi</item>
+    <item type="istring" name="instander_crash">Instander crashed! Please send the report by email.</item>
+    <item type="istring" name="log_saved">Log saved to:</item>
+    <item type="istring" name="version_xe0">Made with ❤ by Dise</item>
+    <item type="istring" name="version_xe1">Made with ❄️ by Dise</item>
+    <item type="istring" name="msg_welcome_title">Welcome to Instander</item>
+    <item type="istring" name="msg_welcome_text">&lt;b>Instander&lt;/b> is a modification of the Instagram application for Android that brings additional functionality to the application. The app is not affiliated with Facebook Inc. and is distributed completely free!&lt;br>&lt;br>&lt;b>There are two kinds of settings in the application:&lt;/b>&lt;br>• Instander Settings — in the profile menu;&lt;br>• Developer settings — long hold on the home icon.&lt;br>&lt;br>Made with ❤ by Dise</item>
+    <item type="istring" name="pref_about_nav_title">Instander Settings</item>
+    <item type="istring" name="pref_downloads">Downloads</item>
+    <item type="istring" name="pref_notifs_on">Notification</item>
+    <item type="istring" name="pref_split_by_username">Split media by username</item>
+    <item type="istring" name="pref_split_by_username_summary">Downloaded media will be splitted up by username into subdirectories</item>
+    <item type="istring" name="pref_download_folder">Path to download</item>
+    <item type="istring" name="pref_download_this">Current media</item>
+    <item type="istring" name="pref_download_all">All %1$s media</item>
+    <item type="istring" name="downloaded_media_toast">"Saved in: "</item>
+    <item type="istring" name="permission_error">Error! Please, give the app storage permission, so you can download Images/Videos</item>
+    <item type="istring" name="feature_not_available">Currently this feature is not available...</item>
+    <item type="istring" name="down_start">Download started...</item>
+    <item type="istring" name="down_fail">Download failed</item>
+    <item type="istring" name="download_complete">Download completed</item>
+    <item type="istring" name="downloading">Downloading...</item>
+    <item type="istring" name="pink_cancel">Cancel</item>
+    <item type="istring" name="impossible_down">"It's not possible to download"</item>
+    <item type="istring" name="pink_download">Download</item>
+    <item type="istring" name="create_folder_hint">Enter Folder Name Here</item>
+    <item type="istring" name="create_new_folder">Create a new Folder here</item>
+    <item type="istring" name="folder_dialog_internal">(Internal)</item>
+    <item type="istring" name="folder_dialog_external">(External)</item>
+    <item type="istring" name="folder_dialog_select">Select</item>
+    <item type="istring" name="folder_dialog_select_dir">Select a directory</item>
+    <item type="istring" name="folder_dialog_defdir">Default Dir</item>
+    <item type="istring" name="folder_dialog_cancel">Cancel</item>
+    <item type="istring" name="create_folder_dialog_title">Enter the folder name</item>
+    <item type="istring" name="create_folder_dialog_pos_button">Create</item>
+    <item type="istring" name="create_folder_dialog_invalid">Please enter a valid folder name</item>
+    <item type="istring" name="create_folder_dialog_already_exists">"This folder already exists.
+ Please provide another name for the folder."</item>
+    <item type="istring" name="file_lister_folder">Folder</item>
+    <item type="istring" name="pref_category_privacy">Privacy</item>
+    <item type="istring" name="pref_disable_ads">Disable Ads</item>
+    <item type="istring" name="pref_disable_analytics">Disable analytics</item>
+    <item type="istring" name="pref_arca_title">Crash reports</item>
+    <item type="istring" name="pref_swipe_title">Gestures</item>
+    <item type="istring" name="pref_disable_swipe">Swipe to navigate</item>
+    <item type="istring" name="pref_long_tap_title">Zoom photo by long tap</item>
+    <item type="istring" name="pref_double_tap_title">Like photo by double tap</item>
+    <item type="istring" name="pref_triple_tap_title">Triple Tap</item>
+    <item type="istring" name="pref_video_scrubber_title">Video scrubber</item>
+    <item type="istring" name="pref_category_quality_title">Quality Improvements</item>
+    <item type="istring" name="pref_max_video_bitrate">Improve Stories quality</item>
+    <item type="istring" name="pref_igtv_quality">Improve IGTV quality</item>
+    <item type="istring" name="pref_reels_quality">Improve Reels quality</item>
+    <item type="istring" name="pref_photo_compress_title">Improve Photo quality</item>
+    <item type="istring" name="pref_experiment">(Experimental)</item>
+    <item type="istring" name="pref_max_quality_media">Photos in max quality</item>
+    <item type="istring" name="pref_max_quality_media_summary">By default, Instagram compresses photos by screen width, this option disables that restriction</item>
+    <item type="istring" name="pref_ghost_title">Ghost Mode</item>
+    <item type="istring" name="pref_hide_view_status">"Don't mark Stories as seen"</item>
+    <item type="istring" name="pref_direct_unread">"Don't mark Direct as read"</item>
+    <item type="istring" name="pref_direct_type">Disable typing status</item>
+    <item type="istring" name="pref_live_hide">Anonymous live view</item>
+    <item type="istring" name="pref_live_ghost">"👻 You're ghost viewer! If you don't send a message, owner of livestream won't know that you are watching."</item>
+    <item type="istring" name="pref_feed_and_stories">Feed &amp; Stories</item>
+    <item type="istring" name="pref_stories_audio">Stories autoplay with sound</item>
+    <item type="istring" name="pref_video_autoplay">Auto-play videos</item>
+    <item type="istring" name="pref_suggested_users">Suggested friends</item>
+    <item type="istring" name="pref_remove_liked_posts">Hide liked posts</item>
+    <item type="istring" name="pref_others_title">Misc</item>
+    <item type="istring" name="pref_browser_title">In-App Browser</item>
+    <item type="istring" name="pref_follow">Indicator \"Follows You\"</item>
+    <item type="istring" name="pref_menu_comment">Additional menu for comments</item>
+    <item type="istring" name="pref_verify_title">Verification</item>
+    <item type="istring" name="pref_verify_info_about_title">What does verification provide?</item>
+    <item type="istring" name="pref_verify_info_about">Account verification is a gratitude from the developer for material support of the project. It will only be visible to Instander users.</item>
+    <item type="istring" name="pref_verify_info_donate_title">How to get verification?</item>
+    <item type="istring" name="pref_verify_info_donate">"Make a donation to the developer in a way convenient for you:
+— from 150 RUB;
+— from 55 UAH;
+— from 2.5 USD.
+
+In the comments for the money order, write your @username on Instagram.
+
+Send a money order screenshot and your username via Email.
+
+The term for issuing a checkmark is from 24 hours to 7 days."</item>
+    <item type="istring" name="pref_donate">Ways to donate</item>
+    <item type="istring" name="pref_donate_summary">Monobank, Qiwi, YooMoney, Ethereum, Tinkoff</item>
+    <item type="istring" name="copypassdone">Copied successfully</item>
+    <item type="istring" name="paypalcopypassdone">Email copied successfully</item>
+    <item type="istring" name="ethcopypassdone">Ethereum address copied successfully</item>
+    <item type="istring" name="pref_email_title">Send E-mail</item>
+    <item type="istring" name="pref_email_summary">Attach money order screenshot and your Instagram username</item>
+    <item type="istring" name="pref_email_verify">mailto:verify@thedise.me</item>
+    <item type="istring" name="pref_email_subject">Instander Verification</item>
+    <item type="istring" name="pref_email_text">Attach screenshot money order and your @username on Instagram.</item>
+    <item type="istring" name="pref_ota_title">OTA Updates</item>
+    <item type="istring" name="pref_ota_auto_title">Auto-search for updates</item>
+    <item type="istring" name="pref_ota_check">Check updates</item>
+    <item type="istring" name="pref_search_ota">Searching for updates...</item>
+    <item type="istring" name="pref_ota_download">Please wait...</item>
+    <item type="istring" name="pref_ota_new">New version: %s</item>
+    <item type="istring" name="pref_ota_last">Latest version is installed</item>
+    <item type="istring" name="pref_download_nofify_channel">Instander OTA</item>
+    <item type="istring" name="pref_ota_error">Error</item>
+    <item type="istring" name="pref_ota_update">Update</item>
+    <item type="istring" name="pref_about_title">About</item>
+    <item type="istring" name="pref_based_title">Based on Instagram</item>
+    <item type="istring" name="pref_dev">Lead Developer</item>
+    <item type="istring" name="pref_dev_summary">Dmitry Gavrilov aka the_dise</item>
+    <item type="istring" name="pref_category_social">Social media</item>
+    <item type="istring" name="pref_instagram">My Instagram Profile</item>
+    <item type="istring" name="pref_telegram">My Telegram Blog</item>
+    <item type="istring" name="pref_github">My GitHub Profile</item>
+    <item type="istring" name="pref_translate_title">Translate</item>
+    <item type="istring" name="pref_translate_summary">You can help translate the app</item>
+    <item type="istring" name="pref_thanks_title">Acknowledgement</item>
+    <item type="istring" name="pref_thanks_summary">People and open source projects that helped the development of Instander</item>
+    <item type="istring" name="pref_thanks_1">krogon500</item>
+    <item type="istring" name="pref_thanks_1_summary">InstaXtreme creator. For developments in the field of Instagram modifications.</item>
+    <item type="istring" name="pref_thanks_2">Grishka</item>
+    <item type="istring" name="pref_thanks_2_summary">Author of the original code to remove Ads</item>
+    <item type="istring" name="pref_thanks_3">f0x1d</item>
+    <item type="istring" name="pref_thanks_3_summary">Help in creating OTA</item>
+    <item type="istring" name="pref_thanks_4">gdlbo</item>
+    <item type="istring" name="pref_thanks_4_summary">All-round help and support</item>
+    <item type="istring" name="pref_thanks_5">namok</item>
+    <item type="istring" name="pref_thanks_5_summary">Author of some custom settings</item>
+    <item type="istring" name="pref_thanks_6">FirzenYogesh</item>
+    <item type="istring" name="pref_thanks_6_summary">Author of Android Utility library and FileListerDialog</item>
+    <item type="istring" name="pref_thanks_7">Splunk Mint</item>
+    <item type="istring" name="pref_thanks_7_summary">Crashlytics service for cataloging errors in modification</item>
+    <item type="istring" name="pref_thanks_8">seven332</item>
+    <item type="istring" name="pref_thanks_8_summary">Author UniFile. Powerful fork from Document File Provider</item>
+    <item type="istring" name="pref_thanks_9">Raul Portales</item>
+    <item type="istring" name="pref_thanks_9_summary">A Particle System for standard Android UI</item>
+    <item type="istring" name="pref_faq_title">Help Center</item>
+    <item type="istring" name="pref_faq_summary">Answers to frequently asked questions</item>
+    <item type="istring" name="pref_social_title">Social Networks</item>
+    <item type="istring" name="pref_social_summary">Follow Instander on social networks</item>
+    <item type="istring" name="pref_telegram_channel">Instander official channel in Telegram</item>
+    <item type="istring" name="pref_subreddit">Instander official subreddit</item>
+    <item type="istring" name="pref_instander_summary">Official Instander account in Instagram</item>
+    <item type="istring" name="pref_made_dise">Made with ❤ by Dise</item>
+    <item type="istring" name="pref_profile_follow">User is following you</item>
+    <item type="istring" name="pref_profile_not_follow">"User isn't following you"</item>
+    <item type="istring" name="instander_menu">Instander Menu</item>
+    <item type="istring" name="preview_media">Preview media</item>
+    <item type="istring" name="copy_link">Copy direct link to file</item>
+    <item type="istring" name="share_link">Share direct link to file</item>
+    <item type="istring" name="shared_via">"Shared via Instander: "</item>
+    <item type="istring" name="install_player">"It looks like that you don't have online video player, please install VLC and try again"</item>
+    <item type="istring" name="pref_mark_as_read">Mark as Read</item>
+    <item type="istring" name="pref_comment_menu">Menu for comment</item>
+    <item type="istring" name="pref_translate_to_def">Translate into system language</item>
+    <item type="istring" name="pref_translate_to_en">Translate to English</item>
+    <item type="istring" name="pref_translate_to_ru">Translate to Russian</item>
+    <item type="istring" name="pref_translate_to_ua">Translate to Ukrainian</item>
+    <item type="istring" name="pref_comment_copy">Copy text of comment</item>
+    <item type="istring" name="message_too_long">Error: Message too long</item>
+    <item type="istring" name="translate_toast">Wait a moment. Translating...</item>
+    <item type="istring" name="done_translate">Translated:</item>
+    <item type="istring" name="copy_translate">Copy text</item>
+    <item type="istring" name="close_translate">Close</item>
+    <item type="istring" name="translate_error">Error: Please try again</item>
+    <item type="istring" name="pref_restart">(Restart required)</item>
+    <item type="istring" name="user_header_posts">Posts</item>
+    <item type="istring" name="user_header_followers">Followers</item>
+    <item type="istring" name="user_header_following">Following</item>
+    <item type="istring" name="profile_picture">Profile Picture</item>
+    <item type="istring" name="pref_comment_more">More</item>
+    <item type="istring" name="pref_apply_new_icon">Apply Icon</item>
+    <item type="istring" name="pref_instander_old">Instander (Old Icon)</item>
+    <item type="istring" name="pref_instander_alt">Instander (New Icon)</item>
+    <item type="istring" name="pref_change_app_icon">Change App Icon (Beta)</item>
+    <item type="istring" name="pref_select_icon">Please select an icon</item>
+    <item type="istring" name="pref_icon_apply_done">Icon set successfully</item>
+    <item type="istring" name="private_reply">Message</item>
+    <item type="istring" name="private_see_response">See response</item>
+    <item type="istring" name="profile_header_name_spacing_multiplier">1.2</item>
+    <item type="istring" name="pref_story_autoplay">Disable story flipping</item>
+    <item type="istring" name="pref_monobank">Monobank</item>
+    <item type="istring" name="pref_qiwi">Qiwi</item>
+    <item type="istring" name="pref_yoomoney">YooMoney</item>
+    <item type="istring" name="pref_paypal">PayPal</item>
+    <item type="istring" name="pref_verify_info_paypal_title">Attention</item>
+    <item type="istring" name="pref_email_send_paypalme">Payment via PayPal.me</item>
+    <item type="istring" name="pref_email_send_paypal">Payment via E-Mail</item>
+    <item type="istring" name="pref_email_paypal">mailto:the.dise@yandex.ua</item>
+    <item type="istring" name="pref_paypal_summary">When paying take into account the 10% commission that PayPal takes. If there are not enough funds, verification will not be possible.</item>
+    <item type="istring" name="pref_tinkoff">Tinkoff</item>
+    <item type="istring" name="pref_ethereum">Ethereum</item>
+    <item type="istring" name="pref_team">Instander Team</item>
+    <item type="istring" name="pref_team_summary">Рeople who help with development and testing</item>
+    <item type="istring" name="reply_button">Reply</item>
+    <item type="istring" name="pref_backup_settings">Backup Settings</item>
+    <item type="istring" name="pref_backup_settings_about">About backup settings</item>
+    <item type="istring" name="pref_backup_settings_summary">"This menu helps you back up your Instander settings. 
+
+The backup does not include saving the developer settings."</item>
+    <item type="istring" name="pref_backup_title">Backup</item>
+    <item type="istring" name="pref_restore_title">Restore</item>
+    <item type="istring" name="backup_saved">"Settings saved in: "</item>
+    <item type="istring" name="backup_restored">Settings restored</item>
+    <item type="istring" name="no_backups">There are no backups</item>
+    <item type="istring" name="direct_unread_on">Direct unread on</item>
+    <item type="istring" name="direct_unread_off">Direct undread off</item>
+</resources>
